@@ -1,8 +1,8 @@
 
 ![Android Developer](https://scontent.fdac174-1.fna.fbcdn.net/v/t39.30808-6/479203558_1856831835152096_2454413063251821329_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=Gwmg3KOEvhUQ7kNvgHrs03O&_nc_zt=23&_nc_ht=scontent.fdac174-1.fna&_nc_gid=AQOTGDYlucKQQc1mAicFK_m&oh=00_AYDXwE7ifHy0dUvripzv7N_h-gxZ4V_QydFq0SPNkY3Arw&oe=67B0E5C2)
 
-### Hi there 👋, I am Nur Hosen
-#### Android Developer
+## Hi there 👋, I am Nur Hosen
+### Android Developer
 
 I am a Android Developer. So i make Android native apps.
 
